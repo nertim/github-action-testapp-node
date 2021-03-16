@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'ga-test-linux-code-002'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0ced81c9a76540edbd447cada820ba45 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4dc11b977de744469743170a42be59c9 }}
         package: .
